@@ -1,6 +1,6 @@
 # Junior ML Engineer – Python Debugging Assessment
 
-## Purpose
+## Purpose of the Assessment
 This assessment evaluates Python fundamentals and debugging ability. It is not intended to test data science or machine learning theory.
 
 You are given a set of Python problems. Each problem includes a short description and a code snippet. The code may contain one or more issues. 
