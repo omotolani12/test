@@ -25,4 +25,4 @@ This ensures a consistent runtime environment for all candidates.
 4. Click Run in the online editor to execute the code.
 
 
-**_NOTE:_** Please note nothing runs by default until you explicitly uncomment a test case.
+**_NOTE:_** Please note nothing runs by default until you explicitly uncomment a test case out.
